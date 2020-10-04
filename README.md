@@ -2,7 +2,7 @@
 
 
 ## URL
-[Generate your custom password here:](file:///Users/joemcandrew/Desktop/Rutgers/passwordGen/Develop/index.html)
+[Generate your custom password here:]()
 
 ## ScreenShots
 
@@ -13,6 +13,9 @@
 ![Step five](./Assets/five.png)
 ![Step six](./Assets/six.png)
 ![Step seven](./Assets/seven.png)
+
+
+
 
 ## Your Task
 
@@ -103,7 +106,6 @@ This homework is graded based on the following criteria:
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
-
 ## Review
 
 You are required to submit the following for review:
@@ -114,4 +116,3 @@ You are required to submit the following for review:
 
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
