@@ -2,8 +2,17 @@
 
 
 ## URL
-[Generate your custom password here:)(file:///Users/joemcandrew/Desktop/Rutgers/Homework3/Develop/index.html)
+[Generate your custom password here:](file:///Users/joemcandrew/Desktop/Rutgers/passwordGen/Develop/index.html)
 
+## ScreenShots
+
+![Step one](./Assets/one.png)
+![Step two](./Assets/two.png)
+![Step three](./Assets/three.png)
+![Step four](./Assets/four.png)
+![Step five](./Assets/five.png)
+![Step six](./Assets/six.png)
+![Step seven](./Assets/seven.png)
 
 ## Your Task
 
