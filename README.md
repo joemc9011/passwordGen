@@ -1,5 +1,10 @@
 # 03 JavaScript: Password Generator
 
+
+## URL
+[Generate your custom password here:)(file:///Users/joemcandrew/Desktop/Rutgers/Homework3/Develop/index.html)
+
+
 ## Your Task
 
 This week’s homework requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. 
@@ -100,9 +105,4 @@ You are required to submit the following for review:
 
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-
-URL
-
-file:///Users/joemcandrew/Desktop/Rutgers/Homework3/Develop/index.html
 
