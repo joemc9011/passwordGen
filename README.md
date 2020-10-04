@@ -2,7 +2,7 @@
 
 
 ## URL
-[Generate your custom password here:]()
+[Generate your custom password here:](file:///Users/joemcandrew/Desktop/Rutgers/passwordGen/Develop/index.html)
 
 ## ScreenShots
 
